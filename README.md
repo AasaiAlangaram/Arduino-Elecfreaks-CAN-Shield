@@ -8,4 +8,5 @@ Using Interface schematic diagram you can connect each other. In order to Receiv
 
 ### How to add library?
 
+Follow these steps\
 Open Arduino -> Sketch -> Include Library -> Click Add .ZIP Library -> Go to your downloaded library location -> Click Open.
